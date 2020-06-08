@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "wheelbarrow_2x.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
